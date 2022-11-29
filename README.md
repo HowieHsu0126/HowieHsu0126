@@ -4,7 +4,7 @@
   - Analysis of Public Opinion on Social Media
   - Event Knowledge Graph Learning
   - Graph Neural Network.
-- 🌱 I’m currently pursuing master degree at [https://iopen.nwpu.edu.cn/](School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University)
+- 🌱 I’m currently pursuing master degree at [https://iopen.nwpu.edu.cn](School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University)
 - 💞️ I’m looking for a **TRUSTWORTHY** teammate to collaborate on Kaggle and any other data science competitions.
 - 📫 How to reach me: haoweixu0126@163.com
 
