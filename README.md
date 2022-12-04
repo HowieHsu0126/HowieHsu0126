@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @HowieHsu0126.
-  - A common developer with a passion for math and AI.
-- 👀 I’m interested in: 
+  - An ordinary developer with a passion for math and AI.
+- 👀 I’m interested in the following: 
   - Analysis of Public Opinion on Social Media
-  - Event Knowledge Graph Learning
-  - Graph Neural Network.
-- 🌱 I’m currently pursuing master degree at [School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University](https://iopen.nwpu.edu.cn)
-- 💞️ I’m looking for a **TRUSTWORTHY** teammate to collaborate on Kaggle and any other data science competitions.
+  - Event Knowledge Graph
+  - Neural Architecture Search in Graph Neural Networks.
+
+- 🌱 I’m currently pursuing a master's degree at [School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University](https://iopen.nwpu.edu.cn)
+- 💞️ I’m looking for a **TRUSTWORTHY** teammate to collaborate on Kaggle and other data science competitions.
 - 📫 How to reach me: haoweixu0126@163.com
 
 
