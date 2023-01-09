@@ -2,7 +2,7 @@
   - An ordinary developer with a passion for math and AI.
 - 👀 I’m interested in the following: 
   - Analysis of Public Opinion on Social Media
-  - Event Knowledge Graph
+  - Event Knowledge Graph Representation Learning
   - Graph Neural Architecture Search on Knowledge Graphs.
 
 - 🌱 I’m currently pursuing a master's degree at [School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University](https://iopen.nwpu.edu.cn)
