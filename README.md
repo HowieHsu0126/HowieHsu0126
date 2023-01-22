@@ -3,7 +3,8 @@
 - 👀 I’m interested in the following: 
   - Analysis of Public Opinion on Social Media
   - Event Knowledge Graph Representation Learning
-  - Graph Neural Architecture Search on Knowledge Graphs.
+  - Graph Neural Architecture Search
+  - Few-shot Learning & Meta Learning.
 
 - 🌱 I’m currently pursuing a master's degree at [School of Artificial Intelligence, OPtics and ElectroNics (iOPEN), Northwestern Polytechnical University](https://iopen.nwpu.edu.cn)
 - 💞️ I’m looking for a **TRUSTWORTHY** teammate to collaborate on Kaggle and other data science competitions.
