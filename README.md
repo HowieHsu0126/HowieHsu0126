@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HowieHsu0126.
   - An ordinary developer with a passion for math and AI.
 - 👀 I’m interested in the following: 
-  - Analysis of Public Opinion on Social Media
-  - Event Knowledge Graph Representation Learning
+  - Analysis of Information Diffusion on Social Media
   - Graph Neural Architecture Search
   - Few-shot Learning & Meta Learning.
 
