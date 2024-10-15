@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Stay+fine-tuning+%26+keep+optimizing." alt="Typing SVG" /></a>
+
 - 👋 Hi, I’m @HowieHsu0126.
   - An ordinary developer with a passion for math and AI.
 - 👀 I’m interested in the following: 
