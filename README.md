@@ -8,8 +8,7 @@
   - Neural Network Dynamics
   - AI for Medicine & Healthcare
 
-- 🌱 I am currently pursuing a **PhD** at [Peking University](https://www.pku.edu.cn), specializing in artificial intelligence and brain-inspired computing.
-- 💞️ I’m looking for a **TRUSTWORTHY** teammate to collaborate on Kaggle and other data science competitions.
+- 🌱 I am currently pursuing a PhD at the Institute of Medical Technology, Peking University.
 - 📫 How to reach me: haoweixu0126@163.com
 
 | <a href="https://github.com/HowieHsu0126"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HowieHsu0126&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HowieHsu0126's github stats" /></a> | <a href="https://github.com/HowieHsu0126"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowieHsu0126&layout=compact&theme=buefy&hide_border=true" /></a> |
